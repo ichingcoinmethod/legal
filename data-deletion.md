@@ -32,3 +32,9 @@ We do not keep any backup of deleted data. Once your data is deleted, it cannot 
 ## Contact
 
 If you have any questions about data deletion, please contact us at info@romeoncloud.com
+
+## Unsubscribe from the app
+
+If you wish to cancel your subscription to the app, you can do so directly through your Google Play account by navigating to **Subscriptions > I Ching Coin Method App** and selecting **Cancel**.
+
+Alternatively, you may request cancellation by contacting us via email at **info@romeoncloud.com**. Please include the email address associated with your account so we can process your request promptly.
